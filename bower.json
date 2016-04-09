@@ -14,7 +14,7 @@
     "EventBus",
     "Pub Sub"
   ],
-  ignore:[
+  "ignore":[
     "index.html",
     "package.json"
     ]
