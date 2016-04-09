@@ -13,5 +13,6 @@
     "RXJS",
     "EventBus",
     "Pub Sub"
-  ]
+  ],
+  ignore:[]
 }
