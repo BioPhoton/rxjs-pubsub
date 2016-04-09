@@ -1,0 +1,17 @@
+{
+  "name": "rxjs-pubsub",
+  "version": "0.1.1",
+  "homepage": "https://github.com/richardanaya/rxjs-pubsub",
+  "description": "A simple pubsub using rxjs",
+  "main": "rxjs-pubsub.js",
+  "license": "MIT",
+  "authors": [
+    "Richard Anaya",
+    "Michael Hladky <michael@hladky.at>"
+  ],
+  "keywords": [
+    "RXJS",
+    "EventBus",
+    "Pub Sub"
+  ]
+}
